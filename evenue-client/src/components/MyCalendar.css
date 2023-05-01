@@ -1,0 +1,105 @@
+.calendar{
+    margin-top: 60px;
+    border: 1px solid white;
+}
+.rbc-btn-group button {
+    background-color: #ffbd59 ; /* Change to your desired color */
+    color: rgb(8, 7, 3);
+    font-weight: bold; /* Change to your desired color */
+    border:1px solid black ;
+  }
+  
+  .rbc-btn-group button:hover {
+   opacity: 3; /* Change to your desired hover color */
+  }  
+
+.rbc-calendar {
+    height: 500px;
+  }
+  
+  .rbc-header {
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(8, 7, 3);
+    background-color: #ffbd59 ;
+  }
+  
+  .rbc-header + .rbc-header {
+       border :rgb(8, 7, 3);
+    }
+  
+  .rbc-date-cell {
+    height: 100px; 
+    width: 100px;  
+    color: black;     
+  }
+
+  
+  .rbc-calendar .rbc-toolbar button,
+.rbc-calendar .rbc-toolbar span {
+  font-weight: bold;
+}
+
+.rbc-calendar .rbc-toolbar-label {
+    font-size: 24px; /* Change to your desired font size */
+    color: black
+  }
+  
+
+.rbc-calendar .rbc-month-view .rbc-date-cell {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.rbc-calendar .rbc-today {
+    background-color: #efdec4; /* Change to your desired color */
+    color: black
+  }
+  
+  .rbc-calendar .rbc-month-view .rbc-date-cell span {
+    font-weight: bold;
+    color: black
+  }
+
+  .rbc-toolbar button.rbc-btn-primary {
+    background-color: transparent;
+    color: #000;
+    border: none;
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
+/* Styles for light theme */
+.theme-light {
+    --background-color: #f5f5f5;
+    --text-color: #1c1c1c;
+  }
+  
+  /* Styles for dark theme */
+  .theme-dark {
+    --background-color: #1c1c1c;
+    --text-color: #f5f5f5;
+  }
+  
+  /* Common styles */
+  body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+  
+  .btn-about{
+    background-color: #0d0d0d;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 10%;
+    opacity: 0.8;
+    align-items: center;
+    display: block;
+  }
+      
+      
+    

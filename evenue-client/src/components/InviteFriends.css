@@ -1,0 +1,100 @@
+.bag-invite{    
+    width: 100%;
+    min-height: 100%;
+    min-width: 100%;
+    background-color:var(--background-color);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:black;
+   
+  }
+  
+  html, body {
+    height: 100%;
+  }
+  
+  .invite-friends{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+    background-color: transparent;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 1);
+    border-radius: 10px;
+    padding: 50px;
+    height:auto;
+    width:500px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 540px;
+  }
+
+  .btn-invite{
+    background-color: #0d0d0d;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 30%;
+    opacity: 0.8;
+    align-items: center;
+    display: block;
+  }
+
+  .invite{
+    background-color: var(--background-color);
+    height:150px;
+    width:auto;
+  }
+  /* Styles for light theme */
+.theme-light {
+    --background-color: #f5f5f5;
+    --text-color: #1c1c1c;
+  }
+  
+  /* Styles for dark theme */
+  .theme-dark {
+    --background-color: #1c1c1c;
+    --text-color: #f5f5f5;
+  }
+  
+  /* Common styles */
+  body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+  
+  .btn-theme{
+    background-color: #0d0d0d;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 10%;
+    opacity: 0.8;
+    align-items: center;
+    display: block;
+  }
+
+  h2 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .btn-theme,
+  .btn-invite {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .invite-friends {
+    padding: 2rem;
+  }
+
+  
