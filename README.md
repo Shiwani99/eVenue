@@ -7,4 +7,4 @@ Tech stack:
 Frontend: React \
 Backend: Flask \
 Database: MongoDB \
-Deployment: Heroku \
+Deployment: Heroku 
