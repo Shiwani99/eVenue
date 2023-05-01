@@ -4,7 +4,7 @@ An event/venue management system that allows users to book and manage events or 
 
 Tech stack:
 
-Frontend: React__
-Backend: Flask__
-Database: MongoDB__
-Deployment: Heroku__
+Frontend: React \n
+Backend: Flask \n
+Database: MongoDB \n
+Deployment: Heroku \n
