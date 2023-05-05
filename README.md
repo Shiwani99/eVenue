@@ -19,7 +19,7 @@ Venue owner view
 
 ## Tech stack:
 
-Frontend: React \
+Frontend: React (Material UI, React bootstrap, react router DOM: useState, useEffect, useLocation) \
 Backend: Flask \
 Database: MongoDB \
 Deployment: Heroku 
