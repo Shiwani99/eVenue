@@ -22,4 +22,5 @@ Venue owner view
 Frontend: React (Material UI, React bootstrap, react router DOM: useState, useEffect, useLocation) \
 Backend: Flask \
 Database: MongoDB \
-Deployment: Heroku 
+Deployment: Heroku \
+External APIs: stripe, twilio
