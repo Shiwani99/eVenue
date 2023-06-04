@@ -25,4 +25,4 @@ Database: MongoDB \
 Deployment: Heroku \
 External APIs: stripe, twilio
 
-Daployment URL: https://evenuee.herokuapp.com/
+Deployment URL: https://evenuee.herokuapp.com/
