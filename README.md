@@ -23,6 +23,6 @@ Frontend: React (Material UI, React bootstrap, react router DOM: useState, useEf
 Backend: Flask \
 Database: MongoDB \
 Deployment: Heroku \
-External APIs: stripe, twilio
+External APIs: stripe, twilio, chat engine
 
 Deployment URL: https://evenuee.herokuapp.com/
