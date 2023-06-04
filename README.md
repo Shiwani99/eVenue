@@ -24,3 +24,5 @@ Backend: Flask \
 Database: MongoDB \
 Deployment: Heroku \
 External APIs: stripe, twilio
+
+Daployment URL: https://evenuee.herokuapp.com/
